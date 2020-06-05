@@ -1,3 +1,5 @@
+COPY-PASTED FROM https://github.com/dchest/cryptopass
+
 Create passwords for different websites (or anything else) using a single
 secret key (if you lose your password for a website, you can regenerate it if
 you remember your secret key.)
